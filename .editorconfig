@@ -1,0 +1,4 @@
+# file này chuẩn hóa giữa các editor với nhau
+[*]
+indent_style = space
+indent_size = 2
